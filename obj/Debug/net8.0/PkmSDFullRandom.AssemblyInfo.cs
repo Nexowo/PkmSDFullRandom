@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PkmSDFullRandom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42696a8b045ceee26310d30004837c7a3bfe26de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9756e82ce43e9cfef43d82b6cea13e9c551d6a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PkmSDFullRandom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PkmSDFullRandom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
