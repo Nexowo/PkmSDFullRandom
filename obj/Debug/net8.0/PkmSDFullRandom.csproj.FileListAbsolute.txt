@@ -1,0 +1,15 @@
+C:\Users\jmacc\Desktop\PkmSDFullRandom\bin\Debug\net8.0\PkmSDFullRandom.exe
+C:\Users\jmacc\Desktop\PkmSDFullRandom\bin\Debug\net8.0\PkmSDFullRandom.deps.json
+C:\Users\jmacc\Desktop\PkmSDFullRandom\bin\Debug\net8.0\PkmSDFullRandom.runtimeconfig.json
+C:\Users\jmacc\Desktop\PkmSDFullRandom\bin\Debug\net8.0\PkmSDFullRandom.dll
+C:\Users\jmacc\Desktop\PkmSDFullRandom\bin\Debug\net8.0\PkmSDFullRandom.pdb
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.AssemblyInfoInputs.cache
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.AssemblyInfo.cs
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.csproj.CoreCompileInputs.cache
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.sourcelink.json
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.dll
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\refint\PkmSDFullRandom.dll
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.pdb
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\PkmSDFullRandom.genruntimeconfig.cache
+C:\Users\jmacc\Desktop\PkmSDFullRandom\obj\Debug\net8.0\ref\PkmSDFullRandom.dll

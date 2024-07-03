@@ -39,7 +39,7 @@ namespace pokemon
         /// Print the ivs of the pokémon
         /// </summary>
         public void print() {
-            string output = Ivs[0].ToString() + "hp/" + Ivs[1].ToString() + "atk/" + Ivs[2].ToString() + "def/" + Ivs[3].ToString() + "SpA/" + Ivs[4].ToString() + "SpD/" + Ivs[5].ToString() + "Spe";
+            string output = Ivs[0].ToString() + "HP/" + Ivs[1].ToString() + "Atk/" + Ivs[2].ToString() + "Def/" + Ivs[3].ToString() + "SpA/" + Ivs[4].ToString() + "SpD/" + Ivs[5].ToString() + "Spe";
             Console.WriteLine(output);
         }
     }
