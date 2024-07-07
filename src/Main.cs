@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using pokemon;
+using poketeam;
 
 class PkmSdFullRandom {
     static void Main() {

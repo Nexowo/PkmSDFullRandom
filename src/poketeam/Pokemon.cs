@@ -1,6 +1,13 @@
-namespace pokemon
+using parameters;
+
+namespace poketeam
 {
     public class Pokemon {
+        ///<summary>
+        /// Id of the pokémon in the national dex
+        ///</summary>
+        public uint Id {get; set;}
+
         /// <summary>
         /// Name of the Pokemon
         /// </summary>
@@ -16,25 +23,10 @@ namespace pokemon
         /// <summary>
         /// Constructor
         /// </summary>
-        public Pokemon() {
+        public Pokemon(DrawParameters param) {
+            Random rng = new Random();
             Name = "";
             Ivs = new List<uint>([0,0,0,0,0,0]);
-        }
-
-        /// <summary>
-        /// Constructor
-        /// </summary>
-        public Pokemon(string name) {
-            Name = name;
-            Ivs = new List<uint>([0,0,0,0,0,0]);
-        }
-
-        /// <summary>
-        /// Constructor
-        /// </summary>
-        public Pokemon(string name, IEnumerable<uint> ivs) {
-            Name = name;
-            Ivs = new List<uint>(ivs);
         }
 
         /// <summary>
