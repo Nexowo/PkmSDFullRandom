@@ -11,6 +11,8 @@ namespace pokemon
         /// </summary>
         public List<uint> Ivs {get; set;}
 
+        public List<string>? attacks {get; set;}
+
         /// <summary>
         /// Constructor
         /// </summary>
