@@ -6,7 +6,7 @@ namespace poketeam
         ///<summary>
         /// Id of the pokémon in the national dex
         ///</summary>
-        public uint id {get; set;}
+        public uint Id {get; set;}
 
         /// <summary>
         /// Name of the Pokemon
@@ -21,25 +21,10 @@ namespace poketeam
         /// <summary>
         /// Constructor
         /// </summary>
-        public Pokemon() {
+        public Pokemon(DrawParameters param) {
+            Random rng = new Random();
             Name = "";
             Ivs = new List<uint>([0,0,0,0,0,0]);
-        }
-
-        /// <summary>
-        /// Constructor
-        /// </summary>
-        public Pokemon(string name) {
-            Name = name;
-            Ivs = new List<uint>([0,0,0,0,0,0]);
-        }
-
-        /// <summary>
-        /// Constructor
-        /// </summary>
-        public Pokemon(string name, IEnumerable<uint> ivs) {
-            Name = name;
-            Ivs = new List<uint>(ivs);
         }
 
         /// <summary>
